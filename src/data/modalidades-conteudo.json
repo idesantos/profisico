@@ -1,0 +1,107 @@
+{
+  "natacao-bebe": {
+    "titulo": "Natação Bebê",
+    "descricao": "A natação para bebês acontece com a presença de um acompanhante na água, em clima de brincadeira e muita segurança. As aulas trabalham a ambientação e a adaptação ao meio líquido, a sociabilização, o equilíbrio, os mergulhos e a sobrevivência. Nossa piscina infantil é separada da piscina dos adultos, o que facilita o cuidado e a orientação dos pequenos, proporcionando segurança e conforto. Com a Metodologia Aquativa, o bebê dá os primeiros passos na água e depois segue para os níveis da natação infantil.",
+    "beneficios": {
+      "texto": "Desde cedo, a natação contribui para o desenvolvimento motor, psíquico e social e trabalha a capacidade respiratória e o sistema cardiovascular. Nesta fase, o bebê aprende o bloqueio da respiração, os movimentos de pernas, os saltos, a imersão e os deslocamentos, sempre com o acompanhante por perto."
+    }
+  },
+  "natacao-infantil": {
+    "titulo": "Natação Infantil",
+    "descricao": "Uma atividade excelente no desenvolvimento motor, psíquico e social, sendo um esporte completo, pois trabalha todos os mecanismos fisiológicos como a capacidade respiratória e sistema cardiovascular. Ajuda na prevenção da obesidade infantil, tem um papel fundamental na formação da personalidade e inteligência das crianças. É uma atividade alegre e divertida onde seus pequenos brincam e gastam sua energia, tornando-se grandes campeões e autossuficientes. Nossa piscina infantil é separada da piscina dos adultos, o que facilita o cuidado e orientação dos seus filhos, proporcionando segurança e conforto. Com a Metodologia Aquativa, seus filhos aprendem desde a adaptação ao meio líquido, a técnicas dos quatro estilos (crawl – costas – peito – borboleta). Seus benefícios são diversos, tanto no combate da obesidade infantil, timidez, como proporciona, saúde e bem-estar.",
+    "beneficios": {
+      "texto": "A Metodologia Aquativa desenvolve capacidades técnicas da natação, bem como a formação global da criança. Cada nível pedagógico tem seus propósitos e objetivos a serem atingidos, tudo permeado pela ludicidade e contextualização com o mundo da criança. Além de ser uma atividade de baixo impacto sobre as articulações, proporciona equilíbrio muscular, melhora a postura, capacidade aeróbica, flexibilidade muscular e aumenta o gasto de energia, o que contribui para crianças mais saudáveis, calmas, atenciosas e com altos rendimentos escolares."
+    }
+  },
+  "natacao-adulto": {
+    "titulo": "Natação Adulto",
+    "descricao": "Essa modalidade é uma das mais completas, a natação é indicada para todos os tipos de pessoas, independentemente da idade, uma vez que trabalha bastante a parte aeróbica, colaborando para o fortalecimento cardiorrespiratório, o condicionamento físico e para a perda de peso, além de ser uma ótima forma para relaxar e distrair a mente da rotina cotidiana. Para quem está começando, há turmas de iniciação na piscina pequena.",
+    "beneficios": {
+      "lista": [
+        "Desenvolve a musculatura",
+        "Ajuda a emagrecer",
+        "Desenvolve a capacidade cardiorrespiratória",
+        "Favorece a memória e a concentração",
+        "Reduz o estresse e a ansiedade"
+      ]
+    }
+  },
+  "hidroginastica": {
+    "titulo": "Hidroginástica",
+    "descricao": "A Hidroginástica é recomendada para todas as idades e biotipos, ótimo para o público da terceira idade e gestantes, pois seus movimentos aeróbicos são de baixo impacto, além de relaxar você ainda irá fortalecer sua musculatura. A hidroginástica também aumenta o metabolismo e pode levar a queima de até 500 calorias por hora, além de ser uma ótima atividade para aliviar o estresse, ansiedade e prevenir doenças.",
+    "beneficios": {
+      "texto": "A prática proporciona o fortalecimento dos ossos ajuda a prevenir doenças cardiovasculares. Preserva as articulações, aumenta a coordenação motora, melhora da flexibilidade, promove o bem-estar, dando aos seus praticantes uma maior qualidade de vida."
+    }
+  },
+  "musculacao": {
+    "titulo": "Musculação",
+    "descricao": "A musculação é uma das atividades mais completas e transformadoras que você pode incorporar à sua rotina de exercícios. Aqui na nossa academia, oferecemos um espaço moderno e equipado com o que há de mais avançado em aparelhos de musculação, permitindo que você trabalhe todos os grupos musculares com eficiência e segurança. Seja você um iniciante buscando tonificar o corpo e melhorar a saúde ou um atleta experiente em busca de performance e força, nossos programas de treinamento personalizados são desenhados para atender a todos os objetivos. A musculação não apenas ajuda a construir uma massa muscular magra, aumentando o metabolismo e promovendo a perda de peso, mas também melhora a postura, aumenta a densidade óssea e reduz o risco de doenças crônicas. Com o apoio de nossa equipe de instrutores altamente qualificados, você receberá orientação passo a passo, garantindo que cada movimento seja realizado com a técnica correta para maximizar os resultados e minimizar o risco de lesões. Venha descobrir o poder da musculação e transforme seu corpo e sua mente conosco.",
+    "beneficios": {
+      "lista": [
+        "Aumento da massa muscular",
+        "Melhora da composição corporal",
+        "Aumento da força e resistência",
+        "Melhora na postura",
+        "Prevenção e controle de doenças crônicas",
+        "Aumento da densidade óssea",
+        "Melhora no metabolismo e na queima de calorias",
+        "Redução do risco de lesões",
+        "Melhora na saúde mental e redução do estresse",
+        "Melhora no sono e na qualidade de vida"
+      ]
+    }
+  },
+  "funcional-kids": {
+    "titulo": "Funcional Kids",
+    "descricao": "Atuando por meio de movimentos como agachar, empurrar, girar, pular e correr, movimentos que já fazem parte do dia a dia das crianças, o Funcional Kids promove a recreação e exercícios físicos, lúdicos do universo infantil. Fazendo com que essa atividade seja prazerosa para os seus filhos. Combate a obesidade infantil e possui inúmeros benefícios.",
+    "beneficios": {
+      "texto": "A atividade apresenta uma série de benefícios para a saúde dos pequenos. Além do gasto de energia, há desenvolvimento motor e cognitivo, consciência corporal e controle mental. Como consequência ainda há a regulação do sono e do apetite e a ampliação da percepção coletiva. Também existem algumas vantagens a longo prazo: como melhor qualidade de vida e formação de um adulto mais forte e seguro."
+    }
+  },
+  "ginastica-2": {
+    "titulo": "Ginástica",
+    "descricao": "A ginástica é uma boa opção de atividade física: prepara o corpo, não toma muito tempo e é ideal para quem leva uma vida mais corrida. Aquece o corpo, alonga, trabalha os músculos e queima calorias, e pode ser praticada por pessoas de todas as idades e biotipos. Além das aulas abaixo, a grade tem GAP (glúteo, abdômen e pernas: exercícios aeróbicos e de musculação no ritmo da música), Abdominal e Alongamento, que estende e flexibiliza os músculos para melhorar a amplitude de movimento.",
+    "beneficios": {
+      "lista": [
+        "Fortalece o core: a região central do corpo",
+        "Protege a coluna: diminui o risco de lesões",
+        "Desenvolve a consciência corporal",
+        "Melhora o controle da respiração",
+        "Reduz dores nas costas",
+        "Melhora a postura e a performance nos esportes"
+      ]
+    }
+  },
+  "lutas": {
+    "titulo": "Lutas",
+    "descricao": "Descubra um universo de adrenalina e superação através das lutas. Desafie seus limites, fortaleça o corpo e a mente e mergulhe numa jornada de autodescoberta e desenvolvimento pessoal. Seja você um iniciante buscando aprender as bases ou alguém com experiência em busca de aprimoramento, aqui você encontra o ambiente para crescer.",
+    "beneficios": {
+      "lista": [
+        "Saúde cardiovascular: os treinos intensos fortalecem o coração e melhoram a circulação",
+        "Força e resistência: os movimentos trabalham os músculos do corpo todo",
+        "Coordenação e agilidade: as técnicas exigem precisão e sincronia",
+        "Autoconfiança: cada nova habilidade dominada aumenta a confiança",
+        "Menos estresse: a luta libera tensões e promove bem-estar",
+        "Autodefesa: técnicas que aumentam a sensação de segurança",
+        "Disciplina e foco: a prática exige dedicação e concentração",
+        "Respeito e trabalho em equipe: no treino, todos aprendem a colaborar"
+      ]
+    }
+  },
+  "ballet": {
+    "titulo": "Ballet e Jazz",
+    "descricao": "Descubra o encanto do Ballet Clássico na Academia Pró-Físico! As aulas para crianças são lúdicas e criativas, com uma professora experiente e uma equipe de auxiliares dedicados, e promovem o desenvolvimento físico e emocional num ambiente inspirador para cada criança explorar seu potencial na dança. Aos sábados, as turmas são divididas por idade: ballet a partir de 4 anos, ballet a partir de 10 e jazz a partir de 12.",
+    "beneficios": {
+      "lista": [
+        "Postura e elegância: o ballet trabalha a correção da postura e a consciência corporal",
+        "Fortalecimento muscular: movimentos precisos trabalham o corpo todo",
+        "Flexibilidade: os alongamentos aumentam a amplitude de movimento",
+        "Coordenação e equilíbrio: corpo e mente trabalham juntos",
+        "Expressão artística: a dança estimula a criatividade e a imaginação",
+        "Disciplina e concentração: técnica se aprende com prática regular",
+        "Autoconfiança: cada passo dominado aumenta a autoestima",
+        "Apresentações: oportunidade de dançar em público"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import Schedule from '../components/Schedule.astro';
+import CtaBand from '../components/CtaBand.astro';
+import Icon from '../components/Icon.astro';
+import { funcionamento, site } from '../data/site';
+---
+<Base title="Horários" description="Horários das aulas de natação, hidroginástica, ginástica, lutas, ballet e funcional kids na Academia Pró-Físico. Seg a sex 06:30–21:30, sábado 08:00–14:00.">
+  <PageHero titulo="Horários" eyebrow="Grade de aulas" lead="Escolha a modalidade e veja as turmas. O horário em destaque é a próxima aula de hoje." migalhas={[{ label: 'Horários' }]} />
+
+  <section class="section" data-depth-label="Grade">
+    <div class="container hor">
+      <aside class="hor__side" data-reveal>
+        <p class="eyebrow">Funcionamento</p>
+        <ul>
+          {funcionamento.linhas.map((l) => <li><span>{l.dias}</span><strong>{l.horario}</strong></li>)}
+        </ul>
+        <p class="hor__contato"><Icon name="phone" /> <a href={site.telefone.link} data-track="telefone">{site.telefone.exibicao}</a></p>
+        <p class="hor__contato"><Icon name="pin" /> {site.endereco.rua} – {site.endereco.bairro}</p>
+      </aside>
+      <div data-reveal><Schedule /></div>
+    </div>
+  </section>
+
+  <CtaBand />
+</Base>
+
+<style>
+  .hor {
+    display: grid;
+    grid-template-columns: 0.55fr 1.45fr;
+    gap: clamp(28px, 4vw, 56px);
+    align-items: start;
+  }
+  .hor__side {
+    position: sticky;
+    top: calc(var(--header-h) + 24px);
+    padding: 28px;
+    border-radius: var(--r-lg);
+    background: var(--c-navy);
+    color: #fff;
+  }
+  .hor__side .eyebrow {
+    color: var(--c-sky);
+  }
+  .hor__side ul {
+    list-style: none;
+    margin: 16px 0 20px;
+  }
+  .hor__side li {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgb(255 255 255 / 12%);
+  }
+  .hor__side li span {
+    color: rgb(255 255 255 / 70%);
+  }
+  .hor__contato {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .hor__contato :global(svg) {
+    width: 18px;
+    color: var(--c-sky);
+  }
+  .hor__contato a {
+    color: #fff;
+    font-weight: 700;
+  }
+  @media (max-width: 900px) {
+    .hor {
+      grid-template-columns: 1fr;
+    }
+    .hor__side {
+      position: static;
+    }
+  }
+</style>
